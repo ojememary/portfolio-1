@@ -24,10 +24,10 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 **Personal Financial Analysis.**
 ![image](assets/Screenshot 2024-11-19 160755.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+Keeping tract of your monthly expenses is very important.Do you want to know where your money is going into?
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://www.linkedin.com/posts/maryojeme_excelmagic-personalfinance-moneymanagement-activity-7255620693294297089-V22c?utm_source=share&utm_medium=member_desktop)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
