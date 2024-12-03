@@ -1,19 +1,19 @@
-!--Section 1: Introduce your self-->
+
 ## ABOUT ME
 
 Hello Everyone! I am Ojeme Mary 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
 
 
-<!--Mention your top/relevant skills here - core and soft skills-->
+
 ## WHAT I DO
 
 *A data analyst instructor with Skillahead Academy, I provide consulting and training services for businesses and i am also a Freelance Data Analyst.*
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅  **Data Analysis Expertise**: Proficient in Excel and Power BI for creating impactful dashboards, performing advanced data wrangling, and delivering actionable business insights.  
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅  **Mentorship and Community Building**: Dedicated to empowering aspiring data analysts through mentorship, training, and fostering collaborative communities like *Data Divas Hub.  
+
+**- ✅ **Adaptability and Growth**: Thrives on continuous learning and skill development, transitioning from an education background to excelling in data analytics and thriving in remote roles. 
 
 
 <!--Section 2: List 3-4 key projects-->
